@@ -1,5 +1,9 @@
-# Sorting Visualizer
+#Sorting Algorithm
+A JavaScript web application for visualizing various sorting algorithms. Built for use by developers and educators alike. Implemented algorithms include:
 
-**A static website for visualizing different comparison based sorting algorithms.**
-<!-- 
-[Website Link](https://mahfuzrifat7.github.io/SortingVisualizer "Sorting Visualizer") -->
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Heap Sort
+Quick Sort
