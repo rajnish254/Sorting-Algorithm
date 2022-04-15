@@ -7,3 +7,5 @@ Insertion Sort
 Merge Sort
 Heap Sort
 Quick Sort
+
+Live Demo  https://rajnish254.github.io/Sorting-Algorithm/
